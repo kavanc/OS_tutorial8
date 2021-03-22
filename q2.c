@@ -16,7 +16,7 @@ typedef struct {
     int address;
     int memory;
     int runtime;
-    bool suspended
+    bool suspended;
 } proc;
 
 typedef struct node {
